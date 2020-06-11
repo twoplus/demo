@@ -1,14 +1,266 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"status": "ok",
+"totalResults": 38,
+"articles": [
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "The Canadian Press",
+"title": "S&P/TSX composite plunges, while U.S. stocks also sink; Loonie steps lower - Yahoo Canada Finance",
+"description": "TORONTO — Canada's main stock index was down more than 400 points amid concerns about the speed of the economic recovery from the pandemic and worries of a second wave of infections.The S&P/TSX composite index was down 446.84 points at 15,254.49.In New York, …",
+"url": "https://ca.finance.yahoo.com/news/north-american-stock-markets-plunge-134813701.html",
+"urlToImage": "https://s.yimg.com/uu/api/res/1.2/eQYzOeEw4bumQ4YbF48.9Q--~B/aD0zOTc7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-ca/the_canadian_press_business_130/a7584e34b6b5874aae270a7daba83c6c",
+"publishedAt": "2020-06-11T15:33:00Z",
+"content": "TORONTO Canada's main stock index was down more than 400 points amid concerns about the speed of the economic recovery from the pandemic and worries of a second wave of infections.\r\nThe S&amp;P/TSX c… [+765 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Www.tsn.ca"
+},
+"author": "TSN.ca Staff",
+"title": "NHL training camps to open July 10 - TSN",
+"description": "The National Hockey League and the National Hockey League Players' Association have agreed to open training camps on July 10 should it be deemed safe to do so, it was announced Thursday.",
+"url": "https://www.tsn.ca/nhl-training-camps-to-open-july-10-1.1485110",
+"urlToImage": "https://www.tsn.ca/polopoly_fs/1.1467579!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/alex-ovechkin-auston-matthews.jpg",
+"publishedAt": "2020-06-11T15:18:01Z",
+"content": "The National Hockey League and the National Hockey League Players' Association have agreed to open training camps on July 10 should it be deemed safe to do so. \r\nNHL, NHLPA agree on opening date for … [+2008 chars]"
+},
+{
+"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Nick Statt",
+"title": "Call of Duty: Modern Warfare Season 4 launches today with Captain Price skin - The Verge",
+"description": "Call of Duty: Modern Warfare’s latest season launches today, bringing with it a slew of changes to its Warzone battle royale spinoff and the addition of fan favorite character Captain Price as a seasonal exclusive skin.",
+"url": "https://www.theverge.com/2020/6/11/21287018/call-of-duty-modern-warfare-season-4-launch-warzone-captain-price-operator",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/m8i8ZdbZeLXnAAzOhmztr9zdz4o=/0x0:3840x2010/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20029374/MW_Screenshot_S4_0006_Price_3840x2160_BRANDED.jpg",
+"publishedAt": "2020-06-11T15:17:31Z",
+"content": "The fan favorite British operator joins the fight\r\nImage: Activision\r\nCall of Duty: Modern Warfares latest season launches today, bringing with it a slew of changes to its Warzone battle royale spino… [+4236 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Darrell Etherington",
+"title": "NASA picks Astrobotic to deliver its water-hunting robot rover to the Moon - Yahoo Style",
+"description": "NASA  has selected a company to fly its VIPER Moon rover to the Moon, for a mission which will be a crucial step in its Artemis program as it will help the agency determine where and how it can establish a long-term presence on the lunar surface.  NASA announ…",
+"url": "https://ca.style.yahoo.com/nasa-picks-astrobotic-deliver-water-145920959.html",
+"urlToImage": "https://s.yimg.com/uu/api/res/1.2/LruAPsbiOeec2bt0AgJusw--~B/aD0xMTUyO3c9MjA0ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/3d633300224db0369adbc3761be6d5fc",
+"publishedAt": "2020-06-11T14:59:00Z",
+"content": "NASA has selected a company to fly its VIPER Moon rover to the Moon, for a mission which will be a crucial step in its Artemis program as it will help the agency determine where and how it can establ… [+2403 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "KitchenerToday.com"
+},
+"author": "Blair Adams",
+"title": "Six new COVID-19 cases in Waterloo Region - KitchenerToday.com",
+"description": "The number of active cases drops to 109",
+"url": "https://www.kitchenertoday.com/coronavirus-covid-19-local-news/six-new-covid-19-cases-in-waterloo-region-2426949",
+"urlToImage": "https://www.vmcdn.ca/f/files/halifaxtoday/images/health/032020-covid-coronavirus-adobestock_326922705.jpeg;w=1200;h=800;mode=crop",
+"publishedAt": "2020-06-11T14:55:00Z",
+"content": "Six new cases of the coronavirus were reported by health officials in Waterloo Region on Thursday morning.\r\nThe number of people in the region who have now been infected with the virus is 1,189.\r\nAno… [+761 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GSMArena.com"
+},
+"author": "Ro",
+"title": "Samsung working on a Galaxy S20 Lite incoming with OneUI 2.5 - GSMArena.com news - GSMArena.com",
+"description": "It will probably be powered by the Snapdragon 865 SoC.",
+"url": "https://www.gsmarena.com/samsung_working_on_a_galaxy_s20_lite_might_launch_alongside_the_note20-news-43715.php",
+"urlToImage": "https://fdn.gsmarena.com/imgroot/news/20/06/galaxy-s20-lite-rumor/-476x249w4/gsmarena_000.jpg",
+"publishedAt": "2020-06-11T14:41:03Z",
+"content": "At the beginning of this year, Samsung released the Galaxy S10 Lite - a slightly cheaper member of the Galaxy S10-series, which brought an interesting feature set - large flat screen and huge battery… [+735 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ctvnews.ca"
+},
+"author": "Sean Davidson, Sean Davidson",
+"title": "Ontario records lowest number of new COVID-19 cases in nearly 11 weeks - CTV News",
+"description": "Ontario has recorded the lowest number of new COVID-19 cases in nearly 11 weeks.",
+"url": "https://toronto.ctvnews.ca/ontario-records-lowest-number-of-new-covid-19-cases-in-nearly-11-weeks-1.4979655",
+"urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.4979662.1591884342!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+"publishedAt": "2020-06-11T14:30:00Z",
+"content": "TORONTO -- \r\nOntario has recorded the lowest number of new COVID-19 cases in nearly 11 weeks.\r\nHealth officials reported 203 new cases of the disease on Thursday, bringing the provincial total to 31,… [+1606 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Digital Trends"
+},
+"author": "Trevor Mogg",
+"title": "Rocket Lab scrubs latest satellite launch with just minutes to go - Digital Trends",
+"description": "Commercial space company Rocket Lab was hoping to deploy small satellites into low Earth orbit for several clients, but strong winds left the rocket grounded.",
+"url": "https://www.digitaltrends.com/news/rocket-lab-scrubs-latest-satellite-launch-with-just-minutes-to-go/",
+"urlToImage": "https://icdn4.digitaltrends.com/image/digitaltrends/rocket-lab-electron-rocket-1200x630-c-ar1.91.jpg",
+"publishedAt": "2020-06-11T14:22:06Z",
+"content": "Strong winds forced Rocket Lab to scrub its latest small-satellite mission just minutes before liftoff from New Zealand’s Mahia Peninsula on Thursday evening local time. The team paused the countdown… [+2918 chars]"
+},
+{
+"source": {
+"id": "cbc-news",
+"name": "CBC News"
+},
+"author": null,
+"title": "NHL hub cities: Which are best equipped to host hockey in a pandemic - CBC.ca",
+"description": "When the NHL first announced plans in May to salvage its season, it \"only\" had the health limitations of a global pandemic to contend with. A lot has changed since the league announced the 10 locations it might use as hub cities to resume its season and playo…",
+"url": "https://www.cbc.ca/sports/hockey/nhl/nhl-hub-cities-criteria-pandemic-1.5605863",
+"urlToImage": "https://i.cbc.ca/1.5606789.1591820948!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nhl-hub.jpg",
+"publishedAt": "2020-06-11T14:14:00Z",
+"content": "When the NHL first announced plans in May to salvage its season, it \"only\" had the health limitations of a global pandemic to contend with. \r\nA lot has changed since the league announced the 10 citie… [+25969 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Guardian"
+},
+"author": "Helen Davidson",
+"title": "Hong Kong to establish new police unit to enforce new security laws - The Guardian",
+"description": "‘Action arm’ will have intelligence-gathering capabilities, security chief says, as state media says legislators are working ‘day and night’ on new laws",
+"url": "https://www.theguardian.com/world/2020/jun/11/hong-kong-to-establish-new-police-unit-to-enforce-new-security-laws",
+"urlToImage": "https://i.guim.co.uk/img/media/17970ccb7d4e5cf5e613193a675a37405e04a2ad/0_345_5930_3558/master/5930.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d079c4c06dafe8dcbe667552c36c5897",
+"publishedAt": "2020-06-11T14:10:53Z",
+"content": "Hong Kongs security chief has announced that a dedicated police unit is being set up and would be ready to enforce controversial new national security laws from day one.\r\nThere is widespread internat… [+3478 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Global News"
+},
+"author": "Taylor Shire",
+"title": "Baseball organizations in Saskatchewan waiting for green light - Globalnews.ca",
+"description": "Baseball Sask is waiting to hear from the government when they can resume on-field activities.",
+"url": "http://globalnews.ca/news/7051434/baseball-saskatchewan-coronavirus/",
+"urlToImage": "https://shawglobalnews.files.wordpress.com/2020/06/2-2.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+"publishedAt": "2020-06-11T13:53:54Z",
+"content": "As playgrounds begin to open across Saskatchewan later this week, many are hoping outdoor sports will soon be given the green light as well.\r\n“We’ve been hearing rumours when Phase 4 might open but u… [+3269 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ctvnews.ca"
+},
+"author": null,
+"title": "One of 4 police officers involved in George Floyd's death has been released on bail - CTV News",
+"description": "One of four police officers charged in the death of George Floyd has posted bail and is out of jail.",
+"url": "https://www.ctvnews.ca/world/one-of-4-police-officers-involved-in-george-floyd-s-death-has-been-released-on-bail-1.4979617",
+"urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.4979627.1591883158!/httpImage/image.png_gen/derivatives/landscape_620/image.png",
+"publishedAt": "2020-06-11T13:45:00Z",
+"content": "MINNEAPOLIS -- \r\nOne of four police officers charged in the death of George Floyd has posted bail and is out of jail.\r\nAccording to online records, Thomas Lane, 37, posted bail of US$750,000 and was … [+936 chars]"
+},
+{
+"source": {
+"id": "cbc-news",
+"name": "CBC News"
+},
+"author": null,
+"title": "Air Transat plans to resume flying on July 23 - CBC.ca",
+"description": "Montreal-based airline Air Transat is planning to start flying again on July 23, after a hiatus of almost four months because of COVID-19.",
+"url": "https://www.cbc.ca/news/business/air-transat-earnings-air-canada-1.5607476",
+"urlToImage": "https://i.cbc.ca/1.5138900.1558030331!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/air-transat-air-canada-composite.jpg",
+"publishedAt": "2020-06-11T13:19:00Z",
+"content": "Montreal-based airline Air Transat is planning to start flying again on July 23, after a hiatus of almost four months because of COVID-19.\r\nThe airline says it is planning to slowly return to normal,… [+2584 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "92moose.fm"
+},
+"author": "mattjames",
+"title": "Scientists Detect Radio Signal From Another Galaxy - 92moose.fm",
+"description": "I'm kind of a space AND radio geek, so when I saw this story pop up in the news, I knew I had to check it out.",
+"url": "https://92moose.fm/scientists-detect-radio-signal-from-another-galaxy/",
+"urlToImage": "https://townsquare.media/site/490/files/2020/06/RS32817_GettyImages-103017185-scr.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89",
+"publishedAt": "2020-06-11T13:05:00Z",
+"content": "I'm kind of a space AND radio geek, so when I saw this story pop up in the news, I knew I had to check it out.\r\nIt's something that our NASA officials are always looking and listening for- radio sign… [+1437 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ontario.ca"
+},
+"author": null,
+"title": "Newsroom : Ontario Introduces Public Transit Safety Guidance - Government of Ontario News",
+"description": "TORONTO - Today, Caroline Mulroney, Minister of Transportation and Kinga Surma, Associate Minister of Transportation, released comprehensive safety guidance for public transit agencies as the pr...",
+"url": "https://news.ontario.ca/mto/en/2020/06/ontario-introduces-public-transit-safety-guidance.html",
+"urlToImage": "https://d1vumrn8hahbd1.cloudfront.net/assets/defaultSocialCardImage-4126d67360071f91b3e0243a3afcdff7.jpg",
+"publishedAt": "2020-06-11T13:02:55Z",
+"content": "Ontario Introduces Public Transit Safety Guidance\r\nMeasures designed to keep passengers and employees safe as more people go back to work during COVID-19 \r\nTORONTO - Today, Caroline Mulroney, Ministe… [+3051 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Sportsnet.ca"
+},
+"author": "Ben Nicholson-Smith",
+"title": "How surprise Austin Martin selection impacts Blue Jays from here - Sportsnet.ca",
+"description": "Regardless of where you place Martin, the industry consensus is clear: he was supposed to be gone when Toronto picked. Now the question becomes, where will he play and how soon can he reach the majors?",
+"url": "https://www.sportsnet.ca/baseball/mlb/surprise-austin-martin-selection-impacts-blue-jays/",
+"urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2020/06/Austin-Martin-Toronto-Blue-Jays.jpg",
+"publishedAt": "2020-06-11T13:02:00Z",
+"content": "TORONTO As they prepared for the 2020 draft, Toronto Blue Jays decision makers knew theyd be adding an elite amateur player to their organization. A 95-loss season in 2019 assured them of that.\r\nWhat… [+5200 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "BlackburnNews.com"
+},
+"author": "",
+"title": "Pair of tornadoes confirmed in London region - BlackburnNews.com",
+"description": "Environment Canada has confirmed not one, but two tornadoes tore through the London-area Wednesday night, snapping trees and hydro poles and damaging buildings.",
+"url": "https://blackburnnews.com/london/london-news/2020/06/11/pair-tornadoes-confirmed-london-region/",
+"urlToImage": "https://blackburnnews.com/wp-content/uploads/2020/06/Twister-400x250.png",
+"publishedAt": "2020-06-11T12:40:00Z",
+"content": "By Miranda ChantJune 11, 2020 8:40amEnvironment Canada has confirmed not one, but two tornadoes tore through the London-area Wednesday night, snapping trees and hydro poles and damaging buildings.\r\nA… [+1972 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Global News"
+},
+"author": "Chris Jancelewicz",
+"title": "Meet Kielyn Marrone, the sole Canadian competing for $1M on ‘Alone’ - Global News",
+"description": "Northern Ontario's Kielyn Marrone is vying for the $1 million prize, but she has to last 100 days in the Canadian Arctic — alone — to do so.",
+"url": "http://globalnews.ca/news/7049066/alone-season-7-kielyn-marrone-canadian-interview/",
+"urlToImage": "https://shawglobalnews.files.wordpress.com/2020/06/alone-kielyn-season-7-e1591820750644.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+"publishedAt": "2020-06-11T12:34:38Z",
+"content": "For Season 7 of History’s Alone, the intense reality outdoor survival show has really upped the ante.\r\nIn past seasons, approximately a dozen survivalists would sign up to outlast each other in remot… [+4851 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ctvnews.ca"
+},
+"author": "Veronica Stracqualursi and Harry Enten",
+"title": "Trump campaign demands CNN apologize for poll that shows Biden leading - CTV News",
+"description": "U.S. President Donald Trump's campaign is demanding CNN retract and apologize for a recent poll that showed him well behind presumptive Democratic presidential nominee Joe Biden.",
+"url": "https://www.ctvnews.ca/world/trump-campaign-demands-cnn-apologize-for-poll-that-shows-biden-leading-1.4979462",
+"urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.4971856.1591394023!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+"publishedAt": "2020-06-11T12:04:51Z",
+"content": "U.S. President Donald Trump's campaign is demanding CNN retract and apologize for a recent poll that showed him well behind presumptive Democratic presidential nominee Joe Biden.\r\nThe demand, coming … [+6411 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "Here's a recap of the Fed's economic outlook - CNBC Television",
+"description": "CNBC's Steve Liesman recaps Fed Chairman Jerome Powell's latest comments on the central bank's outlook during the economic turmoil.",
+"url": "https://www.youtube.com/watch?v=OmK02UHBf7o",
+"urlToImage": "https://i.ytimg.com/vi/OmK02UHBf7o/hqdefault.jpg",
+"publishedAt": "2020-06-11T11:27:11Z",
+"content": null
+}
+]
 }
